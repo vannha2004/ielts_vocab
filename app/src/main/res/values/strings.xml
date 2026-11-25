@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">IELTS Vocab 7.0</string>
+    <string name="nav_home">Tổng quan</string>
+    <string name="nav_topics">Chủ đề</string>
+    <string name="nav_library">Từ điển</string>
+    <string name="nav_stats">Thống kê</string>
+    <string name="nav_settings">Cài đặt</string>
+    <string name="mandatory_review_title">Ôn tập bắt buộc</string>
+    <string name="mandatory_review_subtitle">Hoàn thành bài kiểm tra các từ đến hạn để mở khóa các chức năng học tập khác.</string>
+    <string name="flashcard_understand">Hiểu rõ</string>
+    <string name="flashcard_not_sure">Chưa chắc</string>
+    <string name="quiz_submit">Kiểm tra</string>
+    <string name="quiz_next">Câu tiếp theo</string>
+    <string name="notification_channel_name">Nhắc nhở học từ vựng IELTS</string>
+    <string name="notification_channel_desc">Thông báo nhắc học hàng ngày và các từ đến hạn ôn tập</string>
+</resources>

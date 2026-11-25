@@ -1,0 +1,6 @@
+{
+  "name": "IELTS Vocab 7.0",
+  "description": "Ứng dụng học từ vựng IELTS Academic (Band 5.5 lên 7.0+) cho người Việt với Spaced Repetition, Mandatory Review Gate, Flashcards, Quiz và trợ lý AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
